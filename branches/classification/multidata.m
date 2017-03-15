@@ -10,7 +10,7 @@ end
 
 aa=load('/home/cs16m029/KMPA/A2/3.Group_4/Group_4_data.mat');
 labels=aa.final_labels;
-grp4labelnames=(aa.labelname)';
+grp4labelnames=(aa.labelName)';
 
 for i=1:3131
     for j=2:6
