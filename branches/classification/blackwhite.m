@@ -1,6 +1,6 @@
 close all;
 clear all;
-
+ 
 a=load('/home/cs16m029/KMPA/A2/2.Black and white image data/binaryData.mat');
 
 a1=a.data.data;
